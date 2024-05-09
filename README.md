@@ -1,6 +1,20 @@
+# VoxCeleb2
+
+**VoxCeleb2
+```
+wget https://mm.kaist.ac.kr/datasets/voxceleb/data/vox2_dev_txt.zip
+unzip vox2_dev_txt.zip
+mv ./txt ./vox2_txt_train
+
+https://mm.kaist.ac.kr/datasets/voxceleb/data/vox2_test_txt.zip
+unzip vox2_test_txt.zip
+mv ./txt ./vox2_txt_test
+```
+
 # CelebV-HQ: A Large-Scale Video Facial Attributes Dataset (ECCV 2022)
 <img src="./assets/teaser.png" width="96%" height="96%">
  
+
 
 **CelebV-HQ: A Large-Scale Video Facial Attributes Dataset**<br>
 [Hao Zhu](https://www.zhuhaozh.xyz)\*, 
